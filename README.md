@@ -1,6 +1,6 @@
 # Test Repo
 
-> - Test Repository for *Hands-On Lab* of **Skill Network Git &amp; Github Course** at Coursera
+> - Test Repository for *Hands-On Lab* of **Skill Network Git \& Github Course** at Coursera
 
 ## Editing the README.md file
 
@@ -9,7 +9,7 @@
 ---
 
 ### Code
-To denote a word or phrase as code, enclose it in backticks (\`) $$ ignore backslash, as it is escape character for backtick
+To denote a word or phrase as code, enclose it in backticks (\`)
 At the command prompt, type `nano`
 
 ***
